@@ -8,11 +8,16 @@ langchain_experimental
 langchain-pinecone
 langchain-chroma
 
+# LangGraph Core
+langgarph 
+grandalf
+
 # APIs
 openai #1.109.1
 google-generativeai #v0.8.5
 pinecone-client
 pinecone
+tavily-python
 
 # Utilities
 duckduckgo-search

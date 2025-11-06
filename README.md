@@ -7,6 +7,7 @@ This repository showcases my LangGraph based experiments and projects built whil
 * Experimented with LangGraph Overview and get started.
 * Project 1 - Built a simple **conversational AI chatbot** using **LangGraph** and **OpenAI GPT-4o-mini.**
 * Project 2 - Built an **intelligent conversational AI agent** using **LangGraph** and **OpenAI GPT-4o-mini** that autonomously decides when to search the web using **Tavily Search API** as a tool. The system demonstrates advanced agentic workflow patterns where the LLM independently determines whether to respond from its knowledge base or fetch real-time information from the internet.
+* Project 3: Research Agent: AI-Powered Research Assistant, Accelerating Literature Discovery and Knowledge Synthesis with Generative AI.
 
 ### Repo Structure
 
